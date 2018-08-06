@@ -9,18 +9,19 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <figure className="image">
+          Home
+          {/* <figure className="image">
             <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
+          </figure> */}
         </Link>
       </div>
       <div className="navbar-start">
         <Link className="navbar-item" to="/about">
           About
         </Link>
-        <Link className="navbar-item" to="/products">
+        {/* <Link className="navbar-item" to="/products">
           Products
-        </Link>
+        </Link> */}
       </div>
       <div className="navbar-end">
         <a
@@ -29,9 +30,9 @@ const Navbar = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          <span className="icon">
+          {/* <span className="icon">
             <img src={github} alt="Github" />
-          </span>
+          </span> */}
         </a>
       </div>
     </div>
