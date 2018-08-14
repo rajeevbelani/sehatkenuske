@@ -7,7 +7,7 @@ description: >-
   lack of fundamental knowledge to cure the most common skin problems like acne,
   dark spots, wrinkles etc. Lemon, olive oil, honey, aloevera are some of the
   best natural products used to clear oils, dirt and dead skin cells from skin. 
-related_post: 'सुंदर त्वचा के लिए आसान नुस्खे '
+related_post: सुंदर त्वचा के लिए आसान नुस्खे
 tags:
   - beauty tips
   - skincare
